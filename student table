@@ -1,0 +1,8 @@
+sno=int(input('enter student no'))
+name=input('enter student name')
+gender=inut('enter student gender ')
+addres=input('enter student addres')
+print('sno',sno)
+print('snsame',name)
+print('gender',gender)
+print('addres',addres)
