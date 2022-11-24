@@ -1,0 +1,35 @@
+a=int(input('enter the a value')) 
+b=int(input('enter the b value'))
+if a<b:
+    print('b is big')
+else:
+    print('a is big')
+if a>b:
+    print('a is big')
+else:
+    print('b is big')
+if a==b:
+    print('both are equal')
+else:
+    print('not equal')
+if a!=b:
+    print('not equal')
+else:
+    print('equal')
+if a<=b:
+    print('b greater than or equals to a')
+else:    
+    print('b greater than a')
+if a>=b:
+     print('a greater than or equals to b')
+else:
+    print('a greater than b')
+    output
+    enter the a value20
+enter the b value10
+a is big
+a is big
+not equal
+not equal
+b greater than a
+a greater than or equals to b
