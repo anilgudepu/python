@@ -1,0 +1,5 @@
+a=[27,9,54,30,12,95,3]
+smallest=min(a)
+print(smallest)
+output
+3
