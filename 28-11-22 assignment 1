@@ -1,0 +1,37 @@
+atm pin
+pin=2552
+n=int(input('enter pin:'))
+if pin!=n:
+    print('incorrect pin number please try again !!!')
+else:print('continue the transaction')
+
+output
+enter pin:2555
+incorrect pin number please try again !!!
+
+
+
+
+#number is greater than or less than 100
+n=int(input('enter number:'))
+if n>100:print('number is greater than 100')
+else:print('number is less than 100')
+
+output
+enter number:20
+number is less than 100
+
+
+
+
+#atm balance credit process
+balance=1000
+n=int(input('enter amount:'))
+m=balance+n
+print('credited amount:',n)
+print('main balance:',m)
+
+output
+enter amount:4000
+credited amount: 4000
+main balance: 5000
